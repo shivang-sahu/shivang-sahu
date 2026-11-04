@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**shivang-sahu/shivang-sahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Shivang 👋
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science student interested in programming and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new concepts, solving problems, and building projects to improve my skills.
+
+What I'm Currently Working On
+
+- ☕ Java Programming
+- 🧠 Data Structures & Algorithms (DSA)
+- 🗄️ MySQL
+- 🌱 Spring Boot
+
+My Projects
+
+- "Java Guess The Number" (https://github.com/shivang-sahu/java-guess-the-number)
+- "Java Calculator" (https://github.com/shivang-sahu/java-calculator-)
+- "Calculator" (https://github.com/shivang-sahu/Calculator-)
+
+My Goal
+
+To keep learning, build practical projects, and grow as a software developer.
+
+---
+
+Learning step by step, building along the way.
